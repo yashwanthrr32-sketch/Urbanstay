@@ -72,11 +72,11 @@ $password = '';
 ### Step 6: Run the Application
 Open browser → http://localhost/UrbanStay
 
-## Default Admin Login
+Default Admin Login
 Email	- admin@urbanstay.com
 Password	- admin123
 
-## UrbanStay/
+UrbanStay/
 ├── index.php              # Home page
 ├── admin/                 # Admin module
 ├── manager/               # Manager module
