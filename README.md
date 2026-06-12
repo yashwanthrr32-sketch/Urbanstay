@@ -63,7 +63,7 @@ Copy the `UrbanStay` folder to: C:\xampp\htdocs\UrbanStay
 
 ### Step 5: Configure Database
 Edit `config/db.php`:
-```php
+php
 $host = 'localhost';
 $dbname = 'urbanstay_db';
 $username = 'root';
@@ -76,7 +76,7 @@ Open browser → http://localhost/UrbanStay
 Email	- admin@urbanstay.com
 Password	- admin123
 
-UrbanStay/
+## UrbanStay/
 ├── index.php              # Home page
 ├── admin/                 # Admin module
 ├── manager/               # Manager module
@@ -86,7 +86,7 @@ UrbanStay/
 ├── config/                # Database configuration
 └── urbanstay.sql          # Database file
 
-Contact:
+## Contact:
 For any queries: yashwanthrr32@gmail.com
 
-           This project is developed for educational purposes as a BCA final year project.
+ ##           This project is developed for educational purposes as a BCA final year project.
