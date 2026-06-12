@@ -4,18 +4,18 @@ A full stack web application for managing Paying Guest (PG) accommodations with 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 UrbanStay is a complete PG accommodation management platform that connects:
 
-- 👑 **Admin** - System administrator with full control
-- 🏢 **PG Manager** - Manages PG properties, tenants, and attendance
-- 👤 **Tenant** - Books PG, makes payments, raises complaints
-- 👪 **Parent** - Monitors child's accommodation and pays rent
+-  **Admin** - System administrator with full control
+-  **PG Manager** - Manages PG properties, tenants, and attendance
+-  **Tenant** - Books PG, makes payments, raises complaints
+-  **Parent** - Monitors child's accommodation and pays rent
 
 ---
 
-## ✨ Features
+##  Features
 
 | Role | Features |
 |------|----------|
@@ -26,7 +26,7 @@ UrbanStay is a complete PG accommodation management platform that connects:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -37,7 +37,7 @@ UrbanStay is a complete PG accommodation management platform that connects:
 
 ---
 
-## 💻 System Requirements
+##  System Requirements
 
 - XAMPP (v3.3.0 or higher)
 - PHP 7.4+
@@ -46,7 +46,7 @@ UrbanStay is a complete PG accommodation management platform that connects:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install XAMPP
 Download and install XAMPP from [https://www.apachefriends.org/](https://www.apachefriends.org/)
@@ -74,7 +74,7 @@ $password = '';
 ## Step 6: Run the Application
 Open browser → http://localhost/UrbanStay
 
-## 🔐 Default Admin Login
+##  Default Admin Login
 
 | email | password |
 |-------|-------|
@@ -83,7 +83,7 @@ Open browser → http://localhost/UrbanStay
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 ```php
 UrbanStay/
 ├── index.php # Home page
@@ -140,6 +140,6 @@ UrbanStay/
 ├── ajax/ # AJAX handlers
 └── urbanstay.sql # Database file
 ```
-## 📧 Contact
+##  Contact
 
 For any queries: yashwanthrr32@gmail.com
